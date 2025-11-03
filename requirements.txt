@@ -1,8 +1,0 @@
-# Microsoft Agent Framework - REQUIRES --pre flag during preview
-agent-framework-azure-ai
-
-# Azure AI Inference SDK for GitHub Models
-azure-ai-inference
-
-# Additional dependencies
-python-dotenv
